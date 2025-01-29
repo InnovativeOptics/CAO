@@ -1,8 +1,8 @@
 ---
-title: "AMD"
+title: "CAO"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{AMD}
+  %\VignetteIndexEntry{CAO}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
