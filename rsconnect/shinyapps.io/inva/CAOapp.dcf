@@ -1,0 +1,12 @@
+name: CAOapp
+title: CAOapp
+username: inva
+account: inva
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13841068
+bundleId: 9715226
+url: https://inva.shinyapps.io/CAOapp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
