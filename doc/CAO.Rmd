@@ -2,7 +2,7 @@
 title: "AMD"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{AMD}
+  %\VignetteIndexEntry{CAO}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
@@ -15,5 +15,5 @@ knitr::opts_chunk$set(
 ```
 
 ```{r setup}
-library(AMD)
+library(CAO)
 ```
